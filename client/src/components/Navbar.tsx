@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { useLanguage } from "@/contexts/LanguageContext";
 import type { Lang } from "@/contexts/LanguageContext";
 
-const LOGO_URL = "https://d2xsxph8kpxj0f.cloudfront.net/115019203/aRfgCVzyCCUpEuVcLtvUmN/whyclean-logo-CboALjssFu5pEZbbVpxan5.webp";
+const LOGO_URL = "/manus-storage/swiss-sparkle-logo_e7afe035.png";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -33,8 +33,8 @@ export default function Navbar() {
         <a href="#" className="flex items-center gap-2 shrink-0">
           <img
             src={LOGO_URL}
-            alt="WhyClean Logo"
-            className="h-12 md:h-14 w-auto"
+            alt="Swiss Sparkle Logo"
+            className="h-14 md:h-16 w-auto"
           />
         </a>
 

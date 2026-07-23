@@ -19,9 +19,9 @@ const translations: Record<Lang, Record<string, string>> = {
     "nav.book": "Book online",
 
     // Hero
-    "hero.title_italic": "Cleaning Company in Geneva:",
+    "hero.title_italic": "Premium Housekeeping in Geneva:",
     "hero.title_rest": "Your cleanliness, our priority",
-    "hero.desc_prefix": "WhyClean is a cleaning company in Geneva offering its",
+    "hero.desc_prefix": "Swiss Sparkle is a premium housekeeping company in Geneva offering its",
     "hero.desc_services": "services",
     "hero.desc_to": "to",
     "hero.desc_individuals": "individuals",
@@ -36,7 +36,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "hero.badge3": "0% administrative work",
 
     // Why Choose Us
-    "why.subtitle": "#1 House Cleaning Service in Geneva",
+    "why.subtitle": "#1 Premium Housekeeping in Geneva",
     "why.title": "Why choose us?",
     "why.desc": "We combine efficiency, flexibility and discretion to offer you a reliable and local cleaning service in Geneva.",
     "why.f1_title": "Book online easily",
@@ -50,7 +50,7 @@ const translations: Record<Lang, Record<string, string>> = {
 
     // Pricing
     "pricing.title": "Our Cleaning Rates",
-    "pricing.desc": "Make your home shine with WhyClean. Book and pay online and receive an",
+    "pricing.desc": "Make your home shine with Swiss Sparkle. Book and pay online and receive an",
     "pricing.desc_bold": "immediate confirmation",
     "pricing.how_many": "How many hours should I book?",
     "pricing.estimate": "Use the table below to estimate the duration of the household according to the surface area.",
@@ -61,7 +61,7 @@ const translations: Record<Lang, Record<string, string>> = {
 
     // Trust
     "trust.title": "Your trusted cleaning services company",
-    "trust.p1": "Our company, WhyClean, specializes in",
+    "trust.p1": "Our company, Swiss Sparkle, specializes in",
     "trust.p1_link1": "house cleaning and maintenance",
     "trust.p1_mid": "as well as",
     "trust.p1_link2": "commercial premises cleaning",
@@ -77,7 +77,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "trust.faq2_q": "What cleaning services can I book online?",
     "trust.faq2_a": "You can book regular house cleaning, deep cleaning, end-of-tenancy cleaning, office cleaning, window cleaning, and Airbnb cleaning directly through our online platform. Simply select your service, choose your preferred date and time, and confirm your booking.",
     "trust.faq3_q": "Who employs your agents?",
-    "trust.faq3_a": "All our cleaning agents are directly employed by WhyClean. We handle all administrative aspects including social security declarations, insurance, and payroll. This means zero administrative burden for you.",
+    "trust.faq3_a": "All our cleaning agents are directly employed by Swiss Sparkle. We handle all administrative aspects including social security declarations, insurance, and payroll. This means zero administrative burden for you.",
     "trust.faq4_q": "What are the different types of cleaning?",
     "trust.faq4_a": "We offer regular maintenance cleaning, deep cleaning for thorough sanitization, end-of-lease cleaning to meet landlord standards, office and commercial cleaning, window cleaning, and specialized Airbnb turnover cleaning.",
     "trust.faq5_q": "How much will a cleaning service in Geneva cost me?",
@@ -87,11 +87,11 @@ const translations: Record<Lang, Record<string, string>> = {
     "services.title": "Our Cleaning Services in Geneva",
     "services.desc": "From regular housekeeping to end-of-lease cleaning, discover our services tailored to all your needs in Geneva.",
     "services.s1_title": "House cleaning",
-    "services.s1_desc": "WhyClean offers a high quality cleaning service and makes your apartment or house shine throughout the canton of Geneva.",
+    "services.s1_desc": "Swiss Sparkle offers a high quality cleaning service and makes your apartment or house shine throughout the canton of Geneva.",
     "services.s2_title": "Office cleaning",
     "services.s2_desc": "We clean your offices and premises for an impeccable cleanliness and a healthy work environment for your employees. 100% flexible offers.",
     "services.s3_title": "End of tenancy cleaning",
-    "services.s3_desc": "WhyClean is the specialist in end-of-lease cleaning in Geneva. Our company also carries out the cleaning before moving in.",
+    "services.s3_desc": "Swiss Sparkle is the specialist in end-of-lease cleaning in Geneva. Our company also carries out the cleaning before moving in.",
     "services.s4_title": "Window cleaning",
     "services.s4_desc": "Our professionals in Geneva ensure the cleaning of your glass surfaces. For companies and individuals. Enjoy a perfect service.",
     "services.s5_title": "Job check",
@@ -110,7 +110,7 @@ const translations: Record<Lang, Record<string, string>> = {
 
     // Commercial
     "commercial.title": "Commercial cleaning services",
-    "commercial.p1": "WhyClean is a cleaning company offering professional cleaning and building maintenance services throughout the canton of Geneva, Switzerland. Because our expertise goes beyond cleaning techniques, quality and satisfaction are essential to us. In this field, we provide a wide range of cleaning services from professional to professional.",
+    "commercial.p1": "Swiss Sparkle is a premium housekeeping company offering professional cleaning and building maintenance services throughout the canton of Geneva, Switzerland. Because our expertise goes beyond cleaning techniques, quality and satisfaction are essential to us. In this field, we provide a wide range of cleaning services from professional to professional.",
     "commercial.p2": "Thus, we offer services including:",
     "commercial.s1": "Deep cleaning of houses and apartments",
     "commercial.s2": "Home cleaning and ironing",
@@ -123,9 +123,9 @@ const translations: Record<Lang, Record<string, string>> = {
     // Testimonials
     "testimonials.title": "What our customers say about us",
     "testimonials.desc": "Our clients appreciate our professionalism, responsiveness and the consistent quality of our services.",
-    "testimonials.t1": "Excellent service! The team was punctual, thorough, and very professional. My apartment has never been this clean. Highly recommend WhyClean!",
-    "testimonials.t2": "We've been using WhyClean for our office cleaning for 6 months now. Consistent quality, reliable team, and great communication. Very satisfied.",
-    "testimonials.t3": "The end-of-tenancy cleaning was impeccable. Got my full deposit back without any issues. Thank you WhyClean for the outstanding work!",
+    "testimonials.t1": "Excellent service! The team was punctual, thorough, and very professional. My apartment has never been this clean. Highly recommend Swiss Sparkle!",
+    "testimonials.t2": "We've been using Swiss Sparkle for our office cleaning for 6 months now. Consistent quality, reliable team, and great communication. Very satisfied.",
+    "testimonials.t3": "The end-of-tenancy cleaning was impeccable. Got my full deposit back without any issues. Thank you Swiss Sparkle for the outstanding work!",
 
     // Blog
     "blog.title": "Discover Our Cleaning Blog",
@@ -142,18 +142,6 @@ const translations: Record<Lang, Record<string, string>> = {
     "areas.desc": "Our cleaning service in Geneva serves the whole canton, including the communes of Lancy, Plan-les-Ouates, Carouge, Cologny, Collonge-Bellerive, Champel, Bernex, Troinex, Vandoeuvres, etc.",
     "areas.contact": "Contact us",
     "areas.available": "Available in: Geneva and surroundings",
-
-    // Products
-    "products.title": "Our Cleaning Products & Supplies",
-    "products.desc": "Professional-grade cleaning products and equipment we use for all our services.",
-    "products.pricing_title": "Product Pricing",
-    "products.supplier": "Supplier",
-    "products.supplies_title": "Monthly Supplies by Service Type",
-    "products.service_home": "Home Cleaning",
-    "products.service_office": "Office Cleaning",
-    "products.service_restaurant": "Bar / Restaurant",
-    "products.products": "Products",
-    "products.materials": "Materials",
 
     // Footer
     "footer.contact_title": "Contact & Infos",
@@ -177,7 +165,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "footer.legal_notice": "Legal notice",
     "footer.available_title": "Available in",
     "footer.available_area": "Geneva and surroundings",
-    "footer.copyright": "All rights reserved by WhyClean",
+    "footer.copyright": "All rights reserved by Swiss Sparkle",
   },
   fr: {
     // Navbar
@@ -189,9 +177,9 @@ const translations: Record<Lang, Record<string, string>> = {
     "nav.book": "Réserver en ligne",
 
     // Hero
-    "hero.title_italic": "Entreprise de nettoyage à Genève :",
+    "hero.title_italic": "Housekeeping premium à Genève :",
     "hero.title_rest": "Votre propreté, notre priorité",
-    "hero.desc_prefix": "WhyClean est une entreprise de nettoyage à Genève offrant ses",
+    "hero.desc_prefix": "Swiss Sparkle est une entreprise de housekeeping premium à Genève offrant ses",
     "hero.desc_services": "services",
     "hero.desc_to": "aux",
     "hero.desc_individuals": "particuliers",
@@ -206,7 +194,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "hero.badge3": "0% de travail administratif",
 
     // Why Choose Us
-    "why.subtitle": "#1 Service de ménage à Genève",
+    "why.subtitle": "#1 Housekeeping premium à Genève",
     "why.title": "Pourquoi nous choisir ?",
     "why.desc": "Nous allions efficacité, flexibilité et discrétion pour vous offrir un service de nettoyage fiable et local à Genève.",
     "why.f1_title": "Réservation en ligne facile",
@@ -219,8 +207,8 @@ const translations: Record<Lang, Record<string, string>> = {
     "why.f4_desc": "Nos agents et clients développent une relation de confiance et de proximité, allant au-delà d'une simple relation de travail.",
 
     // Pricing
-    "pricing.title": "Tarifs de notre entreprise de nettoyage",
-    "pricing.desc": "Faites briller votre maison avec WhyClean. Réservez et payez en ligne et recevez une",
+    "pricing.title": "Tarifs de notre service de housekeeping",
+    "pricing.desc": "Faites briller votre maison avec Swiss Sparkle. Réservez et payez en ligne et recevez une",
     "pricing.desc_bold": "confirmation immédiate",
     "pricing.how_many": "Combien d'heures dois-je réserver ?",
     "pricing.estimate": "Utilisez le tableau ci-dessous pour estimer la durée du ménage en fonction de la surface.",
@@ -231,7 +219,7 @@ const translations: Record<Lang, Record<string, string>> = {
 
     // Trust
     "trust.title": "Votre entreprise de nettoyage de confiance",
-    "trust.p1": "Notre entreprise, WhyClean, est spécialisée dans",
+    "trust.p1": "Notre entreprise, Swiss Sparkle, est spécialisée dans",
     "trust.p1_link1": "le nettoyage et l'entretien de maisons",
     "trust.p1_mid": "ainsi que",
     "trust.p1_link2": "le nettoyage de locaux commerciaux",
@@ -243,25 +231,25 @@ const translations: Record<Lang, Record<string, string>> = {
     "trust.p2_final": "dans le secteur du nettoyage et de l'entretien tout en respectant l'environnement grâce à l'utilisation de produits écologiques pour tous nos services.",
     "trust.faq_title": "Comment fonctionne votre service ?",
     "trust.faq1_q": "Apportez-vous vos propres produits de nettoyage ?",
-    "trust.faq1_a": "Oui, nos équipes apportent tous les produits et équipements nécessaires. Nous utilisons des produits écologiques de qualité professionnelle, sûrs pour votre maison et l'environnement. Si vous avez des préférences spécifiques, n'hésitez pas à nous le signaler lors de la réservation.",
+    "trust.faq1_a": "Oui, nos équipes apportent tous les produits et équipements nécessaires. Nous utilisons des produits écologiques de qualité professionnelle, sûrs pour votre maison et l'environnement.",
     "trust.faq2_q": "Quels services de nettoyage puis-je réserver en ligne ?",
     "trust.faq2_a": "Vous pouvez réserver le ménage régulier, le nettoyage en profondeur, le nettoyage de fin de bail, le nettoyage de bureaux, le nettoyage de vitres et le nettoyage Airbnb directement via notre plateforme en ligne.",
     "trust.faq3_q": "Qui emploie vos agents ?",
-    "trust.faq3_a": "Tous nos agents sont directement employés par WhyClean. Nous gérons tous les aspects administratifs, y compris les déclarations de sécurité sociale, les assurances et la paie. Cela signifie zéro charge administrative pour vous.",
+    "trust.faq3_a": "Tous nos agents sont directement employés par Swiss Sparkle. Nous gérons tous les aspects administratifs, y compris les déclarations de sécurité sociale, les assurances et la paie.",
     "trust.faq4_q": "Quels sont les différents types de nettoyage ?",
     "trust.faq4_a": "Nous proposons le nettoyage d'entretien régulier, le nettoyage en profondeur, le nettoyage de fin de bail, le nettoyage de bureaux et commerces, le nettoyage de vitres et le nettoyage Airbnb spécialisé.",
     "trust.faq5_q": "Combien me coûtera un service de nettoyage à Genève ?",
-    "trust.faq5_a": "Nos tarifs commencent à CHF 138 pour une session de 3 heures. Le coût dépend de la taille de votre propriété et du type de nettoyage requis. Vous pouvez obtenir un devis instantané via notre système de réservation en ligne ou en nous contactant directement.",
+    "trust.faq5_a": "Nos tarifs commencent à CHF 138 pour une session de 3 heures. Le coût dépend de la taille de votre propriété et du type de nettoyage requis.",
 
     // Services
     "services.title": "Nos services de nettoyage à Genève",
     "services.desc": "Du ménage régulier au nettoyage de fin de bail, découvrez nos services adaptés à tous vos besoins à Genève.",
     "services.s1_title": "Nettoyage de maison",
-    "services.s1_desc": "WhyClean offre un service de nettoyage de haute qualité et fait briller votre appartement ou maison dans tout le canton de Genève.",
+    "services.s1_desc": "Swiss Sparkle offre un service de nettoyage de haute qualité et fait briller votre appartement ou maison dans tout le canton de Genève.",
     "services.s2_title": "Nettoyage de bureaux",
-    "services.s2_desc": "Nous nettoyons vos bureaux et locaux pour une propreté impeccable et un environnement de travail sain pour vos employés. Offres 100% flexibles.",
+    "services.s2_desc": "Nous nettoyons vos bureaux et locaux pour une propreté impeccable et un environnement de travail sain pour vos employés.",
     "services.s3_title": "Nettoyage de fin de bail",
-    "services.s3_desc": "WhyClean est le spécialiste du nettoyage de fin de bail à Genève. Notre entreprise effectue également le nettoyage avant emménagement.",
+    "services.s3_desc": "Swiss Sparkle est le spécialiste du nettoyage de fin de bail à Genève. Notre entreprise effectue également le nettoyage avant emménagement.",
     "services.s4_title": "Nettoyage de vitres",
     "services.s4_desc": "Nos professionnels à Genève assurent le nettoyage de vos surfaces vitrées. Pour les entreprises et les particuliers.",
     "services.s5_title": "Contrôle emploi",
@@ -280,7 +268,7 @@ const translations: Record<Lang, Record<string, string>> = {
 
     // Commercial
     "commercial.title": "Services de nettoyage commercial",
-    "commercial.p1": "WhyClean est une entreprise de nettoyage proposant des services professionnels de nettoyage et d'entretien de bâtiments dans tout le canton de Genève, en Suisse. Parce que notre expertise va au-delà des techniques de nettoyage, la qualité et la satisfaction nous sont essentielles.",
+    "commercial.p1": "Swiss Sparkle est une entreprise de housekeeping premium proposant des services professionnels de nettoyage et d'entretien de bâtiments dans tout le canton de Genève, en Suisse.",
     "commercial.p2": "Ainsi, nous proposons des services comprenant :",
     "commercial.s1": "Nettoyage en profondeur de maisons et appartements",
     "commercial.s2": "Ménage et repassage à domicile",
@@ -293,9 +281,9 @@ const translations: Record<Lang, Record<string, string>> = {
     // Testimonials
     "testimonials.title": "Ce que disent nos clients",
     "testimonials.desc": "Nos clients apprécient notre professionnalisme, notre réactivité et la qualité constante de nos services.",
-    "testimonials.t1": "Service excellent ! L'équipe était ponctuelle, minutieuse et très professionnelle. Mon appartement n'a jamais été aussi propre. Je recommande vivement WhyClean !",
-    "testimonials.t2": "Nous utilisons WhyClean pour le nettoyage de nos bureaux depuis 6 mois. Qualité constante, équipe fiable et excellente communication. Très satisfait.",
-    "testimonials.t3": "Le nettoyage de fin de bail était impeccable. J'ai récupéré l'intégralité de ma caution sans aucun problème. Merci WhyClean pour ce travail remarquable !",
+    "testimonials.t1": "Service excellent ! L'équipe était ponctuelle, minutieuse et très professionnelle. Mon appartement n'a jamais été aussi propre. Je recommande vivement Swiss Sparkle !",
+    "testimonials.t2": "Nous utilisons Swiss Sparkle pour le nettoyage de nos bureaux depuis 6 mois. Qualité constante, équipe fiable et excellente communication. Très satisfait.",
+    "testimonials.t3": "Le nettoyage de fin de bail était impeccable. J'ai récupéré l'intégralité de ma caution sans aucun problème. Merci Swiss Sparkle pour ce travail remarquable !",
 
     // Blog
     "blog.title": "Découvrez notre blog nettoyage",
@@ -312,18 +300,6 @@ const translations: Record<Lang, Record<string, string>> = {
     "areas.desc": "Notre service de nettoyage à Genève couvre tout le canton, y compris les communes de Lancy, Plan-les-Ouates, Carouge, Cologny, Collonge-Bellerive, Champel, Bernex, Troinex, Vandoeuvres, etc.",
     "areas.contact": "Contactez-nous",
     "areas.available": "Disponible à : Genève et environs",
-
-    // Products
-    "products.title": "Nos produits et matériel de nettoyage",
-    "products.desc": "Produits de nettoyage et équipements professionnels que nous utilisons pour tous nos services.",
-    "products.pricing_title": "Tarifs des produits",
-    "products.supplier": "Fournisseur",
-    "products.supplies_title": "Fournitures mensuelles par type de service",
-    "products.service_home": "Nettoyage à domicile",
-    "products.service_office": "Nettoyage de bureaux",
-    "products.service_restaurant": "Bar / Restaurant",
-    "products.products": "Produits",
-    "products.materials": "Matériel",
 
     // Footer
     "footer.contact_title": "Contact & Infos",
@@ -347,7 +323,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "footer.legal_notice": "Mentions légales",
     "footer.available_title": "Disponible à",
     "footer.available_area": "Genève et environs",
-    "footer.copyright": "Tous droits réservés par WhyClean",
+    "footer.copyright": "Tous droits réservés par Swiss Sparkle",
   },
 };
 

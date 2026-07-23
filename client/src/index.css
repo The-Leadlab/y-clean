@@ -42,50 +42,51 @@
   --color-sidebar-ring: var(--sidebar-ring);
   --font-sans: 'DM Sans', sans-serif;
   --font-serif: 'DM Serif Display', serif;
-  --color-teal-50: oklch(0.97 0.02 180);
-  --color-teal-100: oklch(0.94 0.04 180);
-  --color-teal-200: oklch(0.88 0.07 180);
-  --color-teal-500: oklch(0.72 0.14 180);
-  --color-teal-600: oklch(0.62 0.14 180);
-  --color-teal-700: oklch(0.52 0.12 180);
-  --color-teal-800: oklch(0.42 0.10 180);
-  --color-teal-900: oklch(0.32 0.08 180);
+  --color-teal-50: oklch(0.97 0.01 250);
+  --color-teal-100: oklch(0.94 0.02 250);
+  --color-teal-200: oklch(0.88 0.04 250);
+  --color-teal-500: oklch(0.55 0.07 250);
+  --color-teal-600: oklch(0.42 0.07 250);
+  --color-teal-700: oklch(0.32 0.07 250);
+  --color-teal-800: oklch(0.25 0.06 250);
+  --color-teal-900: oklch(0.18 0.05 250);
 }
 
 :root {
-  --primary: oklch(0.55 0.14 180);
-  --primary-foreground: oklch(1 0 0);
-  --sidebar-primary: oklch(0.55 0.14 180);
-  --sidebar-primary-foreground: oklch(1 0 0);
-  --chart-1: oklch(0.72 0.14 180);
-  --chart-2: oklch(0.62 0.14 180);
-  --chart-3: oklch(0.52 0.12 180);
-  --chart-4: oklch(0.42 0.10 180);
-  --chart-5: oklch(0.32 0.08 180);
+  /* Swiss Sparkle — Navy primary, silver/slate accents */
+  --primary: oklch(0.32 0.07 250);
+  --primary-foreground: oklch(0.98 0 0);
+  --sidebar-primary: oklch(0.32 0.07 250);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --chart-1: oklch(0.65 0.04 250);
+  --chart-2: oklch(0.50 0.06 250);
+  --chart-3: oklch(0.40 0.07 250);
+  --chart-4: oklch(0.32 0.07 250);
+  --chart-5: oklch(0.22 0.06 250);
   --radius: 0.5rem;
   --background: oklch(1 0 0);
-  --foreground: oklch(0.2 0.02 250);
+  --foreground: oklch(0.2 0.03 250);
   --card: oklch(1 0 0);
-  --card-foreground: oklch(0.2 0.02 250);
+  --card-foreground: oklch(0.2 0.03 250);
   --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.2 0.02 250);
-  --secondary: oklch(0.97 0.01 200);
-  --secondary-foreground: oklch(0.3 0.02 250);
-  --muted: oklch(0.96 0.01 200);
-  --muted-foreground: oklch(0.5 0.02 250);
-  --accent: oklch(0.96 0.02 180);
-  --accent-foreground: oklch(0.2 0.02 250);
+  --popover-foreground: oklch(0.2 0.03 250);
+  --secondary: oklch(0.97 0.01 250);
+  --secondary-foreground: oklch(0.3 0.03 250);
+  --muted: oklch(0.96 0.01 250);
+  --muted-foreground: oklch(0.52 0.02 250);
+  --accent: oklch(0.96 0.01 250);
+  --accent-foreground: oklch(0.2 0.03 250);
   --destructive: oklch(0.577 0.245 27.325);
   --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(0.92 0.01 200);
-  --input: oklch(0.92 0.01 200);
-  --ring: oklch(0.55 0.14 180);
+  --border: oklch(0.91 0.01 250);
+  --input: oklch(0.91 0.01 250);
+  --ring: oklch(0.32 0.07 250);
   --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.2 0.02 250);
-  --sidebar-accent: oklch(0.96 0.02 180);
-  --sidebar-accent-foreground: oklch(0.2 0.02 250);
-  --sidebar-border: oklch(0.92 0.01 200);
-  --sidebar-ring: oklch(0.55 0.14 180);
+  --sidebar-foreground: oklch(0.2 0.03 250);
+  --sidebar-accent: oklch(0.96 0.01 250);
+  --sidebar-accent-foreground: oklch(0.2 0.03 250);
+  --sidebar-border: oklch(0.91 0.01 250);
+  --sidebar-ring: oklch(0.32 0.07 250);
 }
 
 @layer base {

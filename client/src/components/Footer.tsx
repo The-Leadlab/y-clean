@@ -5,7 +5,7 @@
 import { Mail, Clock, CreditCard, Facebook, Instagram, Linkedin } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 
-const LOGO_URL = "https://d2xsxph8kpxj0f.cloudfront.net/115019203/aRfgCVzyCCUpEuVcLtvUmN/whyclean-logo-CboALjssFu5pEZbbVpxan5.webp";
+const LOGO_URL = "/manus-storage/swiss-sparkle-logo_e7afe035.png";
 
 export default function Footer() {
   const { t } = useLanguage();
@@ -18,9 +18,9 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5">{t("footer.contact_title")}</h4>
             <div className="flex flex-col gap-3 text-sm">
-              <a href="mailto:info@whyclean.ch" className="flex items-center gap-2 hover:text-primary transition-colors">
+              <a href="mailto:info@swisssparkle.ch" className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Mail size={16} className="text-primary shrink-0" />
-                info@whyclean.ch
+                info@swisssparkle.ch
               </a>
               <div className="flex items-center gap-2">
                 <CreditCard size={16} className="text-primary shrink-0" />
@@ -90,7 +90,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
-            <img src={LOGO_URL} alt="WhyClean" className="h-10 w-auto brightness-0 invert" />
+            <img src={LOGO_URL} alt="Swiss Sparkle" className="h-10 w-auto brightness-0 invert" />
           </div>
           <p className="text-xs text-white/40">
             &copy; {new Date().getFullYear()} {t("footer.copyright")}
