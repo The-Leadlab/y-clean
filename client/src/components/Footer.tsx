@@ -56,8 +56,8 @@ export default function Footer() {
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mt-8 mb-3">{t("footer.resources")}</h4>
             <div className="flex flex-col gap-2 text-sm">
               <a href="#" className="hover:text-primary transition-colors">{t("footer.checklists")}</a>
-              <a href="#" className="hover:text-primary transition-colors">{t("footer.terms")}</a>
-              <a href="#" className="hover:text-primary transition-colors">{t("footer.privacy")}</a>
+              <a href="/terms" className="hover:text-primary transition-colors">{t("footer.terms")}</a>
+              <a href="/privacy" className="hover:text-primary transition-colors">{t("footer.privacy")}</a>
             </div>
           </div>
 
@@ -78,8 +78,9 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mb-5">{t("footer.legal_title")}</h4>
             <div className="flex flex-col gap-2 text-sm">
-              <a href="#" className="hover:text-primary transition-colors">{t("footer.legal_notice")}</a>
-              <a href="#" className="hover:text-primary transition-colors">{t("footer.privacy")}</a>
+              <a href="/legal" className="hover:text-primary transition-colors">{t("footer.legal_notice")}</a>
+              <a href="/privacy" className="hover:text-primary transition-colors">{t("footer.privacy")}</a>
+              <a href="/dmca" className="hover:text-primary transition-colors">DMCA</a>
             </div>
 
             <h4 className="text-xs font-bold uppercase tracking-widest text-white mt-8 mb-3">{t("footer.available_title")}</h4>
